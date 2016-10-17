@@ -1,4 +1,4 @@
-angular.module("sampleApp",[])
+angular.module("SampleApp",[])
 .controller("defaultCtrl", function ($scope) {
 	$scope.tasks = [
 		{ action: "Task 1", complete: false },
